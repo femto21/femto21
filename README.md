@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Computer Science at Dalhousie University, Halifax, Canada.
 - 💞️ I’m looking to collaborate through group projects and internships.
 - 📫 How to reach me: Email: arpitgahlot2003@gmail.com, Discord: femtosane
-- Portfolio: [https://femto21.github.io/](https://femto21.github.io/)
+- Portfolio: [https://arpitgahlot.com/](https://arpitgahlot.com/)
 
 <!---
 femto21/femto21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
