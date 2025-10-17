@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arpit Gahlot (@femto21)
-- 👀 I’m interested in software engineering, web design and development, and game design and development.
+- 👀 I’m interested in software engineering, cloud, and ML/AI.
 - 🌱 I’m currently studying Computer Science at Dalhousie University, Halifax, Canada.
 - 💞️ I’m looking to collaborate through group projects and internships.
 - 📫 How to reach me: Email: arpitgahlot2003@gmail.com, Discord: femtosane
